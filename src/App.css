@@ -1,0 +1,19 @@
+.App{
+  
+  
+
+}
+
+.App_elements{
+ display:flex;
+
+}
+.app_sidebar{
+    flex:0.1;
+    background:yellow;
+
+}
+.app_todo{
+    flex:0.9;
+    
+}
